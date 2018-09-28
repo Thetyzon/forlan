@@ -1,0 +1,27 @@
+Imagenes: =/Imagen.jpeg\= >>>
+			     id
+			     class
+			     width
+			     height
+			     src
+			     alt
+
+Etiqueta de metadatos: ^/forland >>>
+				    name
+				    version
+				    autor
+				    language
+
+Comentarios:
+	De linea: /#
+	De párrafo: /* (Abrir) *\ (Cerrar)
+
+
+Styles:
+	float_center
+	float_right
+	float_left
+	font_color_
+	bckg_color_
+	font_size_
+

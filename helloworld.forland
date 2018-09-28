@@ -1,5 +1,5 @@
 /# Metadatos
-^/forland version_0·0·3
+^/forland version_0·0·4
 ^/forland title_helloworld
 ^/forland autor_dalvarez,agarcia
 ^/forland language_Español
@@ -7,7 +7,7 @@
 /# Comentario de linea
 
 /*Comentario 
-de parrafo
+de párrafo
 *\
 
 
@@ -15,17 +15,17 @@ de parrafo
 
 {forlan}
 
-+/(color_blue)Titulo\+ /# H1
++/(font_color_blue)Titulo\+ /# H1  Color de la letra con ()
 
 ++/Subtitulo\++ /# H2
 
 +++/Subtitulo 2\+++ /# H3
 
-&/(size_18) Parrafo \&
+&/(font_size_18) Parrafo \&
 
 =/Imagen.jpeg\=
 
 /% /# Salto de linea
 
 
-{^forlan}
+{^forlan}0
