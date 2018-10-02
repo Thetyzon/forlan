@@ -15,13 +15,13 @@ de párrafo
 
 {forlan}
 
-+/(font_color_blue)Titulo\+ /# H1  Color de la letra con ()
++(font_color_blue)/Titulo\+ /# H1  Color de la letra con ()
 
 ++/Subtitulo\++ /# H2
 
 +++/Subtitulo 2\+++ /# H3
 
-&/(font_size_18) Parrafo \&
+&(font_size_18)/ Parrafo \&
 
 =/Imagen.jpeg\=
 
