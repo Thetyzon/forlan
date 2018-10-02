@@ -1,5 +1,5 @@
 /# Metadatos
-^/forlan version_0·0·4;
+^/forlan version_0·0·5;
 ^/forlan title_helloworld;
 ^/forlan autor_dalvarez,agarcia;
 ^/forlan language_es;
@@ -15,17 +15,13 @@ de párrafo
 
 {forlan}
 
-+(font_color_blue)/Titulo\+ /# H1  Color de la letra con ()
+/# Añadimos un titulo
++(font_color_blue)/Documento basico utilizando forland\+ 
 
-++/Subtitulo\++ /# H2
 
-+++/Subtitulo 2\+++ /# H3
-
-&(font_size_18)/ Parrafo \&
-
-=/Imagen.jpeg\=
-
+&(font_size_18)/ Hello world!!! \&
 /% /# Salto de linea
+=/helloworld.png\=
 
 
-{^forlan}0
+{^forlan}
