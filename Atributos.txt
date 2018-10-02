@@ -6,7 +6,7 @@ Imagenes: =/Imagen.jpeg\= >>>
 			     src
 			     alt
 
-Etiqueta de metadatos: ^/forland >>>
+Etiqueta de metadatos: ^/forlan >>>
 				    name
 				    version
 				    autor
